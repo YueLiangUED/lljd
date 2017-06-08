@@ -1,20 +1,20 @@
 .bg01{
 	width:37.5rem;
 	height:22.25rem;
-	background:url(../images/bg01.webp) center no-repeat;
+	background:url(../images/bg01.jpg) center no-repeat;
 	background-size:cover;
 	}
 .bg02{
 	width:37.5rem;
 	height:22.2rem;
-	background:url(../images/bg02.webp) center no-repeat;
+	background:url(../images/bg02.jpg) center no-repeat;
 	background-size:cover;
 	padding-top:0.1px;
 	}	
 .bg03{
 	width:37.5rem;
 	height:22.25rem;
-	background:url(../images/bg03.webp) center no-repeat;
+	background:url(../images/bg03.jpg) center no-repeat;
 	background-size:cover;
 	padding-top:0.1px;	
 	}		
@@ -76,20 +76,20 @@
 .pbg01{
 	width:37.5rem;
 	height:14.6rem;
-	background:url(../images/pbg01.webp) center no-repeat;
+	background:url(../images/pbg01.png) center no-repeat;
 	background-size:cover;
 	}
 .pbg02{
 	width:37.5rem;
 	height:14.65rem;
-	background:url(../images/pbg02.webp) center no-repeat;
+	background:url(../images/pbg02.png) center no-repeat;
 	background-size:cover;
 	padding-top:0.1px;
 	}	
 .pbg03{
 	width:37.5rem;
 	height:14.6rem;
-	background:url(../images/pbg03.webp) center no-repeat;
+	background:url(../images/pbg03.png) center no-repeat;
 	background-size:cover;
 	padding-top:0.1px;	
 	}		
@@ -152,19 +152,19 @@
 .tbg01{
 	width:37.5rem;
 	height:13.45rem;
-	background:url(../images/tbg01.webp) center no-repeat;
+	background:url(../images/tbg01.png) center no-repeat;
 	background-size:cover;
 	}
 .tbg02{
 	width:37.5rem;
 	height:13.4rem;
-	background:url(../images/tbg02.webp) center no-repeat;
+	background:url(../images/tbg02.png) center no-repeat;
 	background-size:cover;
 	}
 .tbg03{
 	width:37.5rem;
 	height:13.45rem;
-	background:url(../images/tbg03.webp) center no-repeat;
+	background:url(../images/tbg03.png) center no-repeat;
 	background-size:cover;
 	padding-top:0.1px;
 	}
@@ -214,26 +214,26 @@
 .cbg01{
 	width:37.5rem;
 	height:16.2rem;
-	background:url(../images/cbg01.webp) center no-repeat;
+	background:url(../images/cbg01.png) center no-repeat;
 	background-size:cover;
 	}
 .cbg02{
 	width:37.5rem;
 	height:14.15rem;
-	background:url(../images/cbg02.webp) center no-repeat;
+	background:url(../images/cbg02.png) center no-repeat;
 	background-size:cover;
 	}
 .cbg03{
 	width:37.5rem;
 	height:13.25rem;
-	background:url(../images/cbg03.webp) center no-repeat;
+	background:url(../images/cbg03.png) center no-repeat;
 	background-size:cover;
 	padding-top:0.1px;
 	}
 .cbg01>p:nth-child(1){
 	font-size:2rem;
 	margin-left:8.2rem;
-	padding-top:11rem;
+	padding-top:12rem;
 	color:#fff;
 	width:4em;
 	}
@@ -277,7 +277,7 @@
 .button.fiv{
 	width:21.4rem;
 	height:3.6rem;
-	margin:2.2rem auto 0 auto;
+	margin:3.2rem auto 0 auto;
 	background:url(../images/button05.png) center no-repeat;
 	background-size:cover;
 	}
@@ -295,28 +295,28 @@
 .mbg01{
 	width:37.5rem;
 	height:13.55rem;
-	background:url(../images/mbg01.webp) center no-repeat;
+	background:url(../images/mbg01.png) center no-repeat;
 	background-size:cover;
 	padding-top:0.1px;
 	}
 .mbg02{
 	width:37.5rem;
 	height:16.2rem;
-	background:url(../images/mbg02.webp) center no-repeat;
+	background:url(../images/mbg02.png) center no-repeat;
 	background-size:cover;
 	padding-top:0.1px;
 	}
 .mbg03{
 	width:37.5rem;
 	height:14.9rem;
-	background:url(../images/mbg03.webp) center no-repeat;
+	background:url(../images/mbg03.png) center no-repeat;
 	background-size:cover;
 	padding-top:0.1px;
 	}
 .mbg04{
 	width:37.5rem;
 	height:14.85rem;
-	background:url(../images/mbg04.webp) center no-repeat;
+	background:url(../images/mbg04.png) center no-repeat;
 	background-size:cover;
 	padding-top:0.1px;
 	}
@@ -415,7 +415,7 @@
 	margin-left:-18.75rem;
 	margin-top:-29.25rem;
 	z-index:101;
-	background: url("../images/myj.webp") center no-repeat;
+	background: url("../images/myj.png") center no-repeat;
 	background-size: cover;
 }
 	
