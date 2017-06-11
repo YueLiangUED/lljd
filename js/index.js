@@ -12,7 +12,7 @@
 			$(".tc.thr").fadeOut(1);	
 			$(".tc.fou").fadeOut(1);	
 		$('.button.one').click(function(){
-			$(".xlz").animate({'margin-left':'0'},1000);
+			$(".xlz").animate({'margin-left':'0'},300);
 			//中奖弹窗
 			
 	        //showMask();
@@ -78,10 +78,15 @@
 			$(".tc.fou").fadeOut(500);				
 	        hideMask();			
 		});
+		$('#back').click(function () {
+			$('.tc.six').fadeOut(500);
+			hideMask();
+		});
 		
 	//奖品领取
 		$('.jp.l>div').html('<div class="ll"><p>点击领取</p></div>');
 		$('.jp.ml>div').html('<div class="mlml"></div>');
+		$('.ss').html('');
 		$('.ll').click(function(){
 			$(this).removeClass("ll");
 			$(this).empty();
